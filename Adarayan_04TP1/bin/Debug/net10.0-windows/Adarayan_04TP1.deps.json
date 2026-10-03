@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Adarayan_04TP1/1.0.0": {
+        "runtime": {
+          "Adarayan_04TP1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adarayan_04TP1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\bin\Debug\net10.0-windows\Adarayan_04TP1.exe
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\bin\Debug\net10.0-windows\Adarayan_04TP1.deps.json
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\bin\Debug\net10.0-windows\Adarayan_04TP1.runtimeconfig.json
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\bin\Debug\net10.0-windows\Adarayan_04TP1.dll
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\bin\Debug\net10.0-windows\Adarayan_04TP1.pdb
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\Adarayan_04TP1.FrmTrackThread.resources
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\Adarayan_04TP1.csproj.GenerateResource.cache
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\Adarayan_04TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\Adarayan_04TP1.AssemblyInfoInputs.cache
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\Adarayan_04TP1.AssemblyInfo.cs
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\Adarayan_04TP1.csproj.CoreCompileInputs.cache
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\Adarayan_04TP1.dll
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\refint\Adarayan_04TP1.dll
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\Adarayan_04TP1.pdb
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\Adarayan_04TP1.genruntimeconfig.cache
+C:\Users\Adarayan.288066\source\repos\Adarayan_04TP1\Adarayan_04TP1\obj\Debug\net10.0-windows\ref\Adarayan_04TP1.dll
